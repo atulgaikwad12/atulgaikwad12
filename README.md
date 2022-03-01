@@ -1,4 +1,4 @@
-### Hi 👋 Thnaks for landing here :blue_heart:
+### Hi 👋 Thxn for landing here :blue_heart:
 
 # I'm **Atul** Hope you'll like my work :smile:
 
