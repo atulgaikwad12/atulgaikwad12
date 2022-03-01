@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋 Thnaks for landing here :blue_heart:
 
-# Its **Atul**
+# I'm **Atul** Hope you'll like my work :smile:
 
 - 🔭 I’m currently working as Application Developer ... Using MS SQL, C Programming, Python Scripting in my work.
 - ✨ I'm having 3+ years of experience in Fintech specifically of payment card domain.
