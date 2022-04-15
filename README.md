@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working as Application Developer ... Using MS SQL, C Programming, Python Scripting in my work.
 - ✨ I'm having 3+ years of experience in Fintech specifically of payment card domain.
-- 🌱 I’m currently learning things like ..... NoSQL database, Power BI, Cloud Deployment Technologies.
-- ⚡ I have past experiences of working in crazy variety of projects....from android development, web applications to machine learning projects.
-
+- 🌱 I’m currently learning things like ..... Machine learning, NoSQL database, Cloud Deployment Techniques.
+- ⚡ I have past experiences of working in variety of projects....from machine learning, web applications to mobile application.
+- 📫 To contact me : social.atulgaikwad@gmail.com 
 <!--
 **atulgaikwad12/atulgaikwad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
